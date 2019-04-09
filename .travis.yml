@@ -4,4 +4,4 @@ services:
 before_install:
   - docker build -t ksanchezcld/green-blue -f Dockerfile.dev .
 script:
-  - docker run ksanchezcld/travis-ci npm run test -- --coverage
+  - docker run ksanchezcld/green-blue npm run test -- --coverage
