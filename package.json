@@ -7,5 +7,8 @@
     "test": "jasmine-node spec"
   },
   "author": "Gabriel Schenker",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.16.2"
+  }
 }
