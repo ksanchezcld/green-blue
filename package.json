@@ -9,6 +9,6 @@
   "author": "Gabriel Schenker",
   "license": "ISC",
   "dependencies": {
-    "jasmine-node": "^1.16.2"
+    "jasmine-node": "^3.0.0"
   }
 }
